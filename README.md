@@ -12,7 +12,7 @@
 * через LN, перейдя по ссылке: [https://coinos.io/BitKorn](https://coinos.io/BitKorn)
 * на LN-адрес: *bitkorn@getalby.com*
 
-Обратная связь: https://t.me/Demidawg
+Обратная связь: https://t.me/Swedenboerg
 
 ***
 
