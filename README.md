@@ -16,7 +16,7 @@
 * через LN, перейдя по ссылке: [https://coinos.io/BitKorn](https://coinos.io/BitKorn)
 * на LN-адрес: *vagrantopera43@walletofsatoshi.com*
 
-Обратная связь: https://t.me/Swedenboerg
+Обратная связь:  [https://t.me/BitKornRUS](https://t.me/BitKornRUS)
 
 ***
 
