@@ -14,7 +14,6 @@
 
 * ончейн: `bc1qk59cm2vtreu8qezutlsf292zpmhpr2khrsv4hj`
 * через LN, перейдя по ссылке: [https://coinos.io/BitKorn](https://coinos.io/BitKorn)
-* на LN-адрес: *vagrantopera43@walletofsatoshi.com*
 
 Обратная связь:  [https://t.me/BitKornRUS](https://t.me/BitKornRUS)
 
